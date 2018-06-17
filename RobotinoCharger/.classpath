@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_151"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/REC GmbH/OpenRobotinoAPI/1/lib/java/rec_robotino_com_wrap.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/opencv"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Aruco"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
